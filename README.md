@@ -1,2 +1,2 @@
-# Sports-data-analysis-utilization-contest
+# Sports-data-analysis-contest
 2022 Sports data analysis/utilization contest
